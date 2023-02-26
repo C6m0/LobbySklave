@@ -11,7 +11,7 @@ const client = new Discord.Client({
     ]
 })
 
-TOKEN = "MTA3OTMyODg4MjU4NDQ3MzY4Mg.G7WS2u.TNjE0mR8BHEUmqton9iVnTyyM_d3mdyZ3x1m6s"
+
 
 client.on("ready", () =>{
     console.log(`Logged in as ${client.user.tag}`)
